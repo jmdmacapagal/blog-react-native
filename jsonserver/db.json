@@ -1,0 +1,34 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "API Post",
+      "content": "dummy content"
+    },
+    {
+      "title": "1",
+      "content": "",
+      "id": 2
+    },
+    {
+      "title": "4",
+      "content": "",
+      "id": 3
+    },
+    {
+      "title": "5",
+      "content": "",
+      "id": 4
+    },
+    {
+      "title": "Blogpost",
+      "content": "Test content",
+      "id": 6
+    },
+    {
+      "title": "Blogpost444",
+      "content": "Test content",
+      "id": 7
+    }
+  ]
+}
